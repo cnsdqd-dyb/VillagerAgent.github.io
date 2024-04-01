@@ -42,8 +42,11 @@ tags: [VillagerAgent, Multi-Agent, ]
 </p>
 
 > <span style="color: green;">VillagerBench</span> is a multi-agent cooperation evaluate platform in Minecraft, support more than <span style="color: orange;">40 APIs</span> for minecraft agents to interact with the world and cooperate with each other, we have designed three scenarios: <span style="color: purple;">construction building</span> tasks, <span style="color: purple;">farm to table cooking</span> tasks and <span style="color: purple;">escape the room</span> challenge.
-{% include aligner.html images="https://github.com/cnsdqd-dyb/VillagerAgent.github.io/tree/master/assets/img/VillagerAgent/01.gif" column=1 %}
+{% include aligner.html images="VillagerAgent/01.gif" column=1 %}
 
+<img src="https://raw.githubusercontent.com/cnsdqd-dyb/VillagerAgent.github.io/master/assets/img/VillagerAgent/o1.gif" alt="VillagerAgent GIF">
+
+![yay](https://github.com/cnsdqd-dyb/VillagerAgent.github.io/blob/master/assets/img/VillagerAgent/o1.gif)
 ---
 
 
