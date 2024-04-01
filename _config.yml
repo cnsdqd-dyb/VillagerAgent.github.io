@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/VillagerAgent.github.io"
-url: "/VillagerAgent.github.io"
+baseurl: "/"
+url: "/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: WorkShare                                    # site's title
