@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/https://cnsdqd-dyb.github.io/VillagerAgent.github.io"
-url: "/https://cnsdqd-dyb.github.io/VillagerAgent.github.io"
+baseurl: "/VillagerAgent.github.io"
+url: "/VillagerAgent.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: WorkShare                                    # site's title
