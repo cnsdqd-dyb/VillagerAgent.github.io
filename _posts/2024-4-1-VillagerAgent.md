@@ -2,8 +2,8 @@
 layout: post
 title: "🌍 VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft 🏰"
 hide_title: false
-feature-img: assets\img\VillagerAgent\VillagerBench.png
-thumbnail: assets\img\VillagerAgent\VillagerBench.png
+feature-img: assets/img/VillagerAgent/VillagerBench.png
+thumbnail: assets/img/VillagerAgent/VillagerBench.png
 author: Yubo Dong
 tags: [VillagerAgent, Multi-Agent, ]
 ---
