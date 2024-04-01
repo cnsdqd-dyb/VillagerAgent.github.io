@@ -35,4 +35,4 @@ jekyll-theme-type-on-strap.gemspec
 test/*
 /type-on-strap*/*
 
-/assets/img/VillagerAgent/*
+# /assets/img/VillagerAgent/*
