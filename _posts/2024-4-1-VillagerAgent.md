@@ -36,7 +36,7 @@ tags: [VillagerAgent, Multi-Agent, ]
     <a href='YOUR_PAPER_LINK_HERE'>
       <img src='https://img.shields.io/badge/Paper-Link-blue?style=for-the-badge' alt='Paper Link'>
     </a>
-    <a href='YOUR_CODE_REPOSITORY_LINK_HERE'>
+    <a href='https://github.com/cnsdqd-dyb/VillagerAgent/tree/main'>
       <img src='https://img.shields.io/badge/Code-Repository-yellow?style=for-the-badge&logo=GitHub' alt='Code Repository'>
     </a>
 </p>
