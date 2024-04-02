@@ -8,7 +8,7 @@ author: Yubo Dong
 tags: [VillagerAgent, Multi-Agent, ]
 ---
 <div align="center" style="font-size: larger;">
-    <a href='mailto:yubodong@example.com'>Yubo Dong</a><sup>1</sup>, <a href='mailto:xukunzhu@example.com'>Xukun Zhu</a><sup>2</sup>, <a href='mailto:zhengzhepan@example.com'>Zhengzhe Pan</a><sup>3</sup>, <a href='mailto:linchaozhu@example.com'>Linchao Zhu</a><sup>4</sup>, <a href='mailto:yyang@example.com'>Yi Yang</a><sup>5</sup>
+    <a href='mailto:22321287@zju.edu.cn'>Yubo Dong</a><sup>1</sup>, <a href='mailto:xukunzhu@example.com'>Xukun Zhu</a><sup>2</sup>, <a href='mailto:zhengzhepan@example.com'>Zhengzhe Pan</a><sup>3</sup>, <a href='mailto:linchaozhu@example.com'>Linchao Zhu</a><sup>4</sup>, <a href='mailto:yyang@example.com'>Yi Yang</a><sup>5</sup>
 </div>
 <div align="center" style="font-size: larger;">
     <sup>1</sup>CCAI, Zhejiang University
@@ -42,7 +42,7 @@ tags: [VillagerAgent, Multi-Agent, ]
 </p>
 
 > <span style="color: green;">VillagerBench</span> is a multi-agent cooperation evaluate platform in Minecraft, support more than <span style="color: orange;">40 APIs</span> for minecraft agents to interact with the world and cooperate with each other, we have designed three scenarios: <span style="color: purple;">construction building</span> tasks, <span style="color: purple;">farm to table cooking</span> tasks and <span style="color: purple;">escape the room</span> challenge.
-{% include aligner.html images="https://github.com/cnsdqd-dyb/VillagerAgent.github.io/tree/master/assets/img/VillagerAgent/01.gif" column=1 %}
+{% include aligner.html images="VillagerAgent/01.gif" column=1 %}
 
 ---
 
@@ -97,9 +97,9 @@ Our empirical evaluation on VillagerBench demonstrates that VillagerAgent outper
   <div style="margin:auto; width:90%; padding:10px;">
     <!-- BibTeX entry -->
     <pre>
-@article{YourLastName2024,
+@article{Dong2024,
   title={VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft},
-  author={Your Name and Coauthor's Name},
+  author={Yubo Dong, Xukun Zhu, Zhengzhe Pan, Linchao Zhu, Yi Yang},
   journal={Journal Name},
   volume={xx},
   number={yy},
