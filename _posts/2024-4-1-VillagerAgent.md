@@ -11,7 +11,7 @@ tags: [VillagerAgent, Multi-Agent, ]
     <a href='mailto:22321287@zju.edu.cn'>Yubo Dong</a><sup>1</sup>, <a href='mailto:xukunzhu@example.com'>Xukun Zhu</a><sup>2</sup>, <a href='mailto:zhengzhepan@example.com'>Zhengzhe Pan</a><sup>3</sup>, <a href='mailto:linchaozhu@example.com'>Linchao Zhu</a><sup>4</sup>, <a href='mailto:yyang@example.com'>Yi Yang</a><sup>5</sup>
 </div>
 <div align="center" style="font-size: larger;">
-    <sup>1</sup>CCAI, Zhejiang University
+    <sup>1</sup>ReLER Lab, CCAI, Zhejiang University
 </div>
 <br>
 
@@ -24,7 +24,7 @@ tags: [VillagerAgent, Multi-Agent, ]
         
     }
     .center-flex img {
-        height: 40px; /* 保持图片的宽高比 */
+        height: auto; /* 保持图片的宽高比 */
         width: auto; /* 调整图片宽度，从而调整按钮大小 */
     }
 </style>
@@ -32,9 +32,6 @@ tags: [VillagerAgent, Multi-Agent, ]
 <p class="center-flex">
     <a href='https://arxiv.org/'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=for-the-badge&logo=arXiv&logoColor=green' alt='Paper PDF'>
-    </a>
-    <a href='YOUR_PAPER_LINK_HERE'>
-      <img src='https://img.shields.io/badge/Paper-Link-blue?style=for-the-badge' alt='Paper Link'>
     </a>
     <a href='https://github.com/cnsdqd-dyb/VillagerAgent/tree/main'>
       <img src='https://img.shields.io/badge/Code-Repository-yellow?style=for-the-badge&logo=GitHub' alt='Code Repository'>

@@ -1,1 +1,1 @@
-# WorkShare -- VillagerAgent ProjectPage
+# WorkShare -- ProjectPage
